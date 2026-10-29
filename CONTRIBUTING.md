@@ -13,23 +13,6 @@ Welcome! This repository is for practicing the open source workflow.
 8. Respond politely to review comments.
 
 ## Rules
-- One Pull Request = one change.
-- Do not add phone numbers, emails or other personal details.
-- Be respectful in every comment.
-
-Click "Commit changes" (commit directly to main). Screenshot [S7].
-
-Step 12. Add a pull request template. Click "Add file" -> "Create new
-         file". Name: .github/pull_request_template.md (typing the
-         slash creates the folder). Paste:
-
-## What does this PR do?
-(Write one or two lines.)
-
-## Related issue
-(Example: Fixes #1)
-
-## Checklist
-- [ ] I created a new branch for this change
-- [ ] I changed only the files needed for this task
-- [ ] My commit has a clear message and a sign-off
+One Pull Request = one change.
+Do not add phone numbers, emails or other personal details.
+Be respectful in every comment.
